@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**GueyeDie/GueyeDie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Lisez-moi
 Mon compte
 # Die Astou GUEYE
