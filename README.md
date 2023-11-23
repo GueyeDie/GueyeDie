@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# Lisez-moi
-Mon compte
 # Die Astou GUEYE
 
 ## Présentation
